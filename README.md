@@ -1,2 +1,2 @@
-# AI-Tutor
-Files to train AI Tutor system
+# Japanese Chatbot
+Files to train a model for Japanese Chatbot
